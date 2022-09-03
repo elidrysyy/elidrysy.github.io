@@ -1,1 +1,9 @@
-# elidrysy.github.io
+## Hey 👋, This is Fatima Zahra EL IDRYSY
+[![Gmail Badge](https://img.shields.io/badge/-elidrysy.fz@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:elidrysy.fz@gmail.com)](mailto:elidrysy.fz@gmail.com) 
+[![Linkedin Badge](https://img.shields.io/badge/-fatimazahra-el-idrysy-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fatima-zahra-el-idrysy/)](https://www.linkedin.com/in/fatima-zahra-el-idrysy/) [![Github Badge](https://img.shields.io/badge/-elidrysyy-grey?style=flat&logo=github&logoColor=white&link=https://github.com/elidrysyy/)](https://www.github.com/elidrysyy/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=elidrysy.github.io/)](elidrysy.github.io/) <p align='left'>I am an aspiring data scientist who enjoys connecting the dots: ideas from various disciplines, people from various teams or applications from various industries. I have a strong technical as well as an academic background in data science engineering, statistics, machine learning and deep learning.
+My passion lies in solving business problems with tailored data, algorithms and communicating complex ideas to non-technical stakeholders. I am able to work across industries to deliver high-performing Al solutions.</p><p align='left'> You can view my resume <a href='https://drive.google.com/drive/folders/1_iPi-4Cc70cIfPmwoK4EULxhoz3L4DQ4?usp=sharing ' target=_blank><u>here</u>.</a></p>
+## Some of my Github Stats
+<p align=left> <img src=https://komarev.com/ghpvc/?username=elidrysyy alt=elidrysyy /> </p>
+
+[![Github stats](https://github-readme-stats.vercel.app/api?username=elidrysyy&show_icons=true&include_all_commits=true)](https://github.com/elidrysyy/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elidrysyy&layout=compact)](https://github.com/elidrysyy/github-readme-stats)
